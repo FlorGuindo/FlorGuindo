@@ -42,7 +42,7 @@ The project analyzes:
 
 It combines data exploration, visualization, and analytical insights to better understand scoring patterns.
 
-[🔗 [View project(https://github.com/FlorGuindo/messi-goal-analysis-and-prediction)]
+[🔗 [View project](https://github.com/FlorGuindo/messi-goal-analysis-and-prediction)
 
 ---
 
