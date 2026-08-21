@@ -27,7 +27,7 @@ The project includes an inventory dashboard, recommendation engine, ranking logi
 
 ---
 
-### ⚽ Football Goals Analysis & Prediction
+### ⚽ Lionel Messi — Goals Analysis & Prediction
 
 A data analysis project focused on exploring goal-scoring patterns in football.
 
@@ -42,7 +42,7 @@ The project analyzes:
 
 It combines data exploration, visualization, and analytical insights to better understand scoring patterns.
 
-🔗 [View project](https://github.com/FlorGuindo)
+[🔗 [View project(https://github.com/FlorGuindo/messi-goal-analysis-and-prediction)]
 
 ---
 
@@ -84,7 +84,7 @@ I'm currently developing my data analytics portfolio through projects involving:
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-florencia-guindo)
 
 ---
 
